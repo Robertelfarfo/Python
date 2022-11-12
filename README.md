@@ -14,3 +14,8 @@ https://github.com/Robertelfarfo/Python/tree/main/Class_figures
 ### Implementing the classes "circle", "square" and "triangle" on a user interface
 
 https://github.com/Robertelfarfo/Python/tree/main/App_figure
+
+
+### A project for show automated testing
+
+https://github.com/Robertelfarfo/Python/tree/main/Testing
