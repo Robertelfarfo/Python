@@ -1,2 +1,2 @@
 
-![Folders!](/Images/files.JPG)
+![Folders!](Images/files.JPG)
