@@ -9,3 +9,7 @@
 #### The location of the files is show in the image below:
 
 ![Files Location](Images/files_1.JPG)
+
+
+#### The module complex.py contains two functions "adition()" and "prod_esc()" while "module.py" contains the functions "modulus()" and argument(). In the folder proj both modules are available for more details. 
+
