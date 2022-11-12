@@ -8,4 +8,4 @@
 
 #### The location of the files is show in the image below:
 
-![Files Location](Image/files_1.JPG)
+![Files Location](Images/files_1.JPG)
