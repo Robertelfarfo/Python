@@ -13,3 +13,4 @@
 
 #### The module complex.py contains two functions "adition()" and "prod_esc()" while "module.py" contains the functions "modulus()" and argument(). In the folder proj both modules are available for more details. 
 
+#### For biginig the tests the easiest way is to locate us in the folder where both folder are located, I refer to the "proj" and "test" folders. Once I am on that location the comamand for discover all thetest is "unittests -v" just tahat the image below. 
