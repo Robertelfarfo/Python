@@ -1,8 +1,5 @@
-### Testing with nose
+# Testing with nose
 
-##### The principal goal of this project is show hoy use the framework nose for automate the testings tasks. For this I have the package "proj" which is one for work with complex numbers.
+####The principal goal of this projects are to shown how use the framework nose for automate the testings tasks. Inside the directory "Easy_test" I show an easy way to test not to much complicated code.
 
-##### First, the location of the files is the shown in the image below.
-![Folders!](Images/files_1.JPG)
-
-
+https://github.com/Robertelfarfo/Python/tree/main/Testing/Easy_test
