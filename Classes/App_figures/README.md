@@ -46,11 +46,11 @@ if __name__ == '__main__':
  Now, to show the results!!!
  
  
-![Triangle!](IM2.png.PNG)
+![Triangle!](IM2.png.png)
 
 Another example:
 
 
- ![Circle!](IM3.png.PNG)
+ ![Circle!](IM3.png.png)
  
  If you want to run the app on your computer download the fie Appfigures.py and the file figures.py. The first file contains the user interface and the second one, figures.py , contains the classes "circle","square" and "triangle". Also download the folder Images, it contains the images that uses the interface. Put in the same foldes as the other two ".py" files, I mean if you save the ".py" files on a folder caled "App"
