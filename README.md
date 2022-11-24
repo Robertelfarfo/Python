@@ -15,11 +15,6 @@ In the lines of figures.py I create a class call "Figure". The daugther classes 
 https://github.com/Robertelfarfo/Python/tree/main/Class_figures
 
 
-#### Implementing the classes "circle", "square" and "triangle" on a user interface
-
-https://github.com/Robertelfarfo/Python/tree/main/App_figure
-
-
 ### Some projects for show automated testing
 
 Is important to test the code that is developed. Python has some modules for this task as nose.
