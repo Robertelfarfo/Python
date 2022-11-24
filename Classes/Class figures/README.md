@@ -17,7 +17,7 @@ class figure(object):
 
 ```
 
-For example, tle class square:
+For example, the class square:
 
 ```python
 
@@ -39,3 +39,4 @@ class square(figure):
 
 For know that the code works we can test it with a simple manual test:
 
+![Manual Test!](Image/Run.JPG)
