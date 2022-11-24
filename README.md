@@ -20,9 +20,13 @@ https://github.com/Robertelfarfo/Python/tree/main/Class_figures
 https://github.com/Robertelfarfo/Python/tree/main/App_figure
 
 
-### A project for show automated testing
+### Some projects for show automated testing
+
+Is important to test the code that is developed. Python has some modules for this task as nose.
 
 https://github.com/Robertelfarfo/Python/tree/main/Testing
 
 
 ### Projects with Django
+
+Django is a backend framework and one I like and I prefer to use.
